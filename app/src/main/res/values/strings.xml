@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">SYNTX</string>
+    <string name="about">About ?</string>
+    <string name="sources">Sources ?</string>
+    <string name="blog">Blog ?</string>
+    <string name="donate">Donate ?</string>
+    <string name="desc_about">ah, why u mad</string>
+    <string name="desc_sources">don`t bully me sar</string>
+    <string name="desc_blog">hmm, no0b blog</string>
+    <string name="desc_donate">thks n love u all</string>
+    <string name="copyright">© 2021 - Putu Developers \n Code &amp; Design by officialputuid</string>
+    <string name="versionapps">v1.1-stable-releases</string>
+
+    <string name="source_t1">[COMMON] android device realme mt6785-common</string>
+    <string name="source_l1">https://github.com/officialputuid/android_device_realme_mt6785-common</string>
+
+    <string name="source_t2">[DT] android device realme RMX2001</string>
+    <string name="source_l2">https://github.com/officialputuid/android_device_realme_RMX2001</string>
+
+    <string name="source_t3">[KT] android kernel realme RMX2001</string>
+    <string name="source_l3">https://github.com/officialputuid/android_kernel_realme_RMX2001</string>
+
+    <string name="source_t4">[VT] proprietary vendor realme</string>
+    <string name="source_l4">https://github.com/officialputuid/proprietary_vendor_realme</string>
+
+    <string name="source_t5">[APP] android packages apps RealmeParts</string>
+    <string name="source_l5">https://github.com/officialputuid/android_packages_apps_RealmeParts</string>
+
+    <string name="source_t6">[APP] android packages apps RealmeDirac</string>
+    <string name="source_l6">https://github.com/officialputuid/android_packages_apps_RealmeDirac</string>
+
+    <string name="source_t7">[microG] android prebuilts prebuiltapks</string>
+    <string name="source_l7">https://github.com/officialputuid/android_prebuilts_prebuiltapks</string>
+
+    <string name="source_t8">[APP] vendor SYNTX</string>
+    <string name="source_l8">https://github.com/officialputuid/vendor_SYNTX</string>
+
+    <string name="syntx_desc">
+        SYNTX - lets syntax, is the place where all the projects (such as testing, rom stuff, and other projects) from officialputuid are released and open source.
+    </string>
+
+    <string name="officialputuid">
+        Hello! I’m officialputuid. I’m a Technology Enthusiast. I currently live in Denpasar, Bali. I Love Design, Programming, Web and Android Development. I’m also interested in Android &amp; Flutter Dev. \n\nYou can reach me officialputuid@hack.id
+    </string>
+
+    <!-- UNICODE FONTAWESOME -->
+    <string name="facebook">&#xf082;</string>
+    <string name="instagram">&#xf16d;</string>
+    <string name="twitter">&#xf081;</string>
+    <string name="telegram">&#xf2c6;</string>
+    <string name="github">&#xf09b;</string>
+
+    <string name="telegramChat">&#xf2c6; Group Chat</string>
+    <string name="telegramChannel">&#xf2c6; Channel Projects</string>
+    <string name="telegramLogs">&#xf2c6; WIP Logs</string>
+
+    <!-- ADS -->
+    <string name="myads_home">ca-app-pub-7959415339797650/1431581416</string>
+    <string name="myads_donation">ca-app-pub-7959415339797650/7805418071</string>
+
+    <!-- Donate -->
+    <string name="mydonations">You can support me by opening this app &amp; clicking ads every day. Yes! just like that!\n\nIf you don`t like it, you can disable this application, Thank you very much!</string>
+    <string name="dev">officialputuid</string>
+    <string name="you_can_also">You can also</string>
+    <string name="dompet_digital">DANA / OVO / LINKAJA / GOPAY</string>
+    <string name="my_numb">+6281&#8211;237&#8211;920&#8211;900</string>
+    <string name="contact_me">You Can Reach Me (for Business)</string>
+    <string name="my_email">officialputuid@hack.id\nofficialputuid@my365office.net</string>
+    <string name="my_cup">🍵🍵🍵🍻🍵🍵🍵</string>
+    <string name="linkweb_donation">trakteer.id/officialputuid</string>
+</resources>

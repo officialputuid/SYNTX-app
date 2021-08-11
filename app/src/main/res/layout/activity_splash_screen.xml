@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/branding"
+    android:theme="@android:style/Theme.Material.Light.NoActionBar.Fullscreen"
+    tools:context=".SplashScreen">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/ivLogo"
+            android:layout_width="185dp"
+            android:layout_height="185dp"
+            android:contentDescription="@string/app_name"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/syntx_apps" />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="32dp"
+        android:fontFamily="@font/agane65_bold"
+        android:gravity="center_horizontal"
+        android:text="@string/versionapps"
+        android:textSize="18sp" />
+
+</RelativeLayout>
